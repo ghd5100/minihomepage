@@ -4,9 +4,7 @@
 
 ### soucetree test3
 
-<<<<<<< HEAD
 ## 서비스 소개
-=======
 
 ## 장바구니추가
 - 상품명
@@ -16,4 +14,6 @@
 
 ## 푸터
 - footer.md 파일 추가
->>>>>>> origin/main
+
+## 사이드바
+- readme.md 파일 수정
